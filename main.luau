@@ -1,3 +1,8 @@
+--Copyright (c) 2026 LiquidPane
+
+--!strict
+--!native
+
 const HttpService = game:GetService("HttpService")
 
 const band = bit32.band
